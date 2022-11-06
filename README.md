@@ -25,7 +25,7 @@ This folder contains:
 4. `python_script_test.py` : python script to run our model on test dataset and obtain csv output file with predictions
 
 ## Installation and Method Guide (Student evaluation)
-1. Log onto AWS Research Gateway and start a `t3.xlarge` instance on Ubuntu 20 04 Large.
+1. Log onto AWS Research Gateway and start a `t3.2xlarge` instance on Ubuntu 20 04 Large.
 
 2. Connect to SSH/RDP
 
