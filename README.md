@@ -58,7 +58,7 @@ cd studies/ProjectStorage
 ```
 mkdir git_env
 cd git_env
-https://github.com/jialin-low/dsa4262-jaly.git
+git clone https://github.com/jialin-low/dsa4262-jaly.git
 ```
 
 9. Go to directory with test dataset, model, and python script
