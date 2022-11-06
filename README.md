@@ -87,7 +87,6 @@ python3 python_script_test.py
 <img width="1263" alt="Screenshot 2022-11-04 at 4 53 28 PM (2)" src="https://user-images.githubusercontent.com/73953587/199932333-7d102d24-c568-4b3f-a399-690f7b571388.png">
 
 4. Find and click onto folder named `git_env`, followed by the folder named `dsa4262-jaly`, and lastly the folder named `proj_jaly_student_evaluation`. You should see the PATH as `Shared/git_env/dsa4262-jaly/proj_jaly_student_evaluation`.
-<img width="1265" alt="image" src="https://user-images.githubusercontent.com/73953587/199932981-e0d13176-fee6-40bb-8fbd-32c20877d33f.png">
 
 5. Download `jaly_test_results.csv` by clicking on the three dots to view the output file with the predictions. 
 <img width="1226" alt="image" src="https://user-images.githubusercontent.com/73953587/199933773-72ec3f03-0bb7-4e28-9209-8e2cafc02805.png">
