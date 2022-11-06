@@ -63,7 +63,7 @@ git clone https://github.com/jialin-low/dsa4262-jaly.git
 
 9. Go to directory with test dataset, model, and python script
 ```
-cd dsa4262-proj-jaly/proj_jaly_student_evaluation 
+cd dsa4262-jaly/proj_jaly_student_evaluation 
 ```
 
 10. Run shell script to install python packages
