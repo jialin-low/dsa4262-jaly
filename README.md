@@ -27,7 +27,9 @@ This folder contains:
 ## Installation and Method Guide (Student evaluation)
 1. Log onto AWS Research Gateway and start a `t3.2xlarge` instance on Ubuntu 20 04 Large.
 
-2. Connect to SSH/RDP
+2. Connect to SSH/RDP. Ensure that the ProjectStorage is mounted. (If not, please create a new instance.)
+<img width="671" alt="image" src="https://user-images.githubusercontent.com/73953587/201307213-1f9e6b79-0860-4da0-89cc-cf464de05e33.png">
+
 
 3. Check python version
 ```
